@@ -119,7 +119,7 @@ git clone https://github.com/chiillbro/outline.git
 
 The following steps were successfully completed:
 
-- **Application Starts:** The application runs and is accessible at `https://local.outline.dev.3000`
+- **Application Starts:** The application runs and is accessible at `https://local.outline.dev:3000`
 - **First-Run Provisioning:** The application correctly displays a setup screen to create the first workspace and admin user.
 - **User Signup:** Able to create a new user account through the initial setup screen.
 - **Core Functionality:** Able to log in, create a new collection, and create a new document.
